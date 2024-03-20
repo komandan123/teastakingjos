@@ -1,0 +1,29 @@
+{
+  "name": "speakup-teastakingjos",
+  "version": "2.2.5",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/komandan123/teastakingjos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komandan123/teastakingjos/issues"
+  },
+  "homepage": "https://github.com/komandan123/teastakingjos#readme",
+  "dependencies": {
+    "teastakingjos": "^2.2.2",
+    "kind-of": "^3.0.2",
+    "longest": "^1.0.1",
+    "repeat-string": "^1.5.2"
+ },
+  "devDependencies": {
+    
+    "next": "^2.2.2"
+  },
+  "description": ""
+}
